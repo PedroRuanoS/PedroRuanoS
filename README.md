@@ -2,7 +2,7 @@
   
 # Languages
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRuanoS&theme=github_dark"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRuanoS&layout=compact&theme=github_dark"/></p>
 
 # Stats
 
